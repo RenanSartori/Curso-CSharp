@@ -1,0 +1,15 @@
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.exe
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.deps.json
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.runtimeconfig.json
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.dll
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\bin\Debug\net6.0\ref\TesteGit.dll
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.pdb
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.csproj.AssemblyReference.cache
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.AssemblyInfoInputs.cache
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.AssemblyInfo.cs
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.dll
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\obj\Debug\net6.0\ref\TesteGit.dll
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.pdb
+C:\Users\Renan Sartori\Desktop\C Sharp Programação Orientada a Objeto\Projetos Curso\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.genruntimeconfig.cache
